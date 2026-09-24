@@ -10,21 +10,21 @@ Renders to: [Markdown Guide](https://www.markdownguide.org)
 
 ## Images
 
-Images use the same syntax as links, with a leading `!`:
+Images have a similar syntax to links but include a preceding exclamation point.
 
 ```markdown
-![Alt text describing the image](path/to/image.png)
+![Image of Minion](https://octodex.github.com/images/minion.png)
 ```
 
-For example:
+![Image of Minion](https://octodex.github.com/images/minion.png)
+
+and using a local image (which also displays on GitHub):
 
 ```markdown
-![The Markdown logo](images/markdown.png)
+![Image of Octocat](images/octocat.png)
 ```
 
-Renders to:
-
-![The Markdown logo](images/markdown.png)
+![Image of Octocat](images/octocat.png)
 
 ---
 
