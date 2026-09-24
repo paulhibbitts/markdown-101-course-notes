@@ -1,8 +1,8 @@
-# Writing Course Notes in Markdown
+# Markdown 101
 
 Welcome! This short course covers everything you need to write clear, well-formatted course notes using Markdown &ndash; the same lightweight syntax used across GitHub, Codeberg, and countless documentation tools.
 
-No prior experience is required. By the end, you'll be able to write headings, lists, code samples, tables, and links &ndash; the core building blocks of almost any set of course notes.
+No prior experience is required. By the end, you'll be able to write headings, lists, code samples, tables, links, blockquotes, and more &ndash; the core building blocks of almost any set of course notes.
 
 ## Why Markdown
 
@@ -31,7 +31,8 @@ John Gruber, the author of Markdown, puts it like this:
 2. [Lists](02-lists.md) &ndash; unordered and ordered lists
 3. [Code and Tables](03-code-and-tables.md) &ndash; inline code, code blocks, and tables
 4. [Links and Images](04-links-and-images.md) &ndash; linking out and embedding images
-5. [Practice Exercise](05-practice-exercise.md) &ndash; write your first piece of course-ready Markdown
+5. [Blockquotes and Extras](05-blockquotes-and-extras.md) &ndash; quoting, horizontal rules, and comments
+6. [Practice Exercise](06-practice-exercise.md) &ndash; write your first piece of course-ready Markdown
 
 ---
 
