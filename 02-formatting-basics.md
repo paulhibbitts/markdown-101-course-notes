@@ -58,4 +58,4 @@ Renders to: ~~Strike through this text.~~
 
 ---
 
-Next: [Lists](02-lists.md)
+Next: [Lists](03-lists.md)
