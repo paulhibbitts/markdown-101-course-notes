@@ -54,4 +54,4 @@ This won't show up in the rendered page.
 
 ---
 
-Next: [Practice Exercise](07-practice-exercise.md)
+Next: [LaTeX and Mermaid](07-latex-and-mermaid.md)

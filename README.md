@@ -12,7 +12,8 @@ No prior experience is required. By the end, you'll be able to write headings, l
 4. [Code and Tables](04-code-and-tables.md) &ndash; inline code, code blocks, and tables
 5. [Links and Images](05-links-and-images.md) &ndash; linking out and embedding images
 6. [Blockquotes and Extras](06-blockquotes-and-extras.md) &ndash; quoting, horizontal rules, and comments
-7. [Practice Exercise](07-practice-exercise.md) &ndash; write your first piece of course-ready Markdown
+7. [LaTeX and Mermaid](07-latex-and-mermaid.md) &ndash; math notation and diagrams
+8. [Practice Exercise](08-practice-exercise.md) &ndash; write your first piece of course-ready Markdown
 
 ---
 
