@@ -52,6 +52,22 @@ This won't show up in the rendered page.
 -->
 ```
 
+## Footnotes
+
+Footnotes let you add an aside or cite a source without breaking up the main text. Mark the spot with `[^1]`, then define it wherever you like in the file &ndash; usually at the bottom:
+
+```markdown
+Markdown was created by John Gruber.[^1]
+
+[^1]: [Markdown - John Gruber](https://daringfireball.net/projects/markdown/)
+```
+
+Renders to:
+
+Markdown was created by John Gruber.[^1]
+
+[^1]: [Markdown - John Gruber](https://daringfireball.net/projects/markdown/)
+
 ---
 
 Next: [LaTeX and Mermaid](07-latex-and-mermaid.md)
