@@ -14,23 +14,12 @@ No prior experience is required. By the end, you'll be able to write headings, l
 
 | Week | Topic |
 | ---- | ----- |
-| 1 | Why Markdown, Formatting Basics |
-| 2 | Lists, Code and Tables |
-| 3 | Links and Images |
-| 4 | Blockquotes, Extras, Footnotes |
-| 5 | LaTeX and Mermaid |
-| 6 | Review |
-
-## Course Pages
-
-1. [Why Markdown](01-why-markdown.md) &ndash; what Markdown is and why it's worth learning
-2. [Formatting Basics](02-formatting-basics.md) &ndash; headings and emphasis (bold, italics, strikethrough)
-3. [Lists](03-lists.md) &ndash; unordered and ordered lists
-4. [Code and Tables](04-code-and-tables.md) &ndash; inline code, code blocks, and tables
-5. [Links and Images](05-links-and-images.md) &ndash; linking out and embedding images
-6. [Blockquotes and Extras](06-blockquotes-and-extras.md) &ndash; quoting, horizontal rules, comments, and footnotes
-7. [LaTeX and Mermaid](07-latex-and-mermaid.md) &ndash; math notation and diagrams
-8. [Practice Exercise](08-practice-exercise.md) &ndash; write your first piece of course-ready Markdown
+| 1 | [Why Markdown](01-why-markdown.md), [Formatting Basics](02-formatting-basics.md) |
+| 2 | [Lists](03-lists.md), [Code and Tables](04-code-and-tables.md) |
+| 3 | [Links and Images](05-links-and-images.md) |
+| 4 | [Blockquotes and Extras](06-blockquotes-and-extras.md) |
+| 5 | [LaTeX and Mermaid](07-latex-and-mermaid.md) |
+| 6 | Review, [Practice Exercise](08-practice-exercise.md) |
 
 ---
 
