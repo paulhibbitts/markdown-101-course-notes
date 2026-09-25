@@ -1,4 +1,4 @@
-# Markdown 101
+# Markdown 101 Course Notes
 
 Welcome! This short course covers everything you need to write clear, well-formatted course notes using Markdown &ndash; the same lightweight syntax used across GitHub, Codeberg, and countless documentation tools.
 
