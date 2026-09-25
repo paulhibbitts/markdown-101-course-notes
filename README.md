@@ -4,6 +4,23 @@ Welcome! This short course covers everything you need to write clear, well-forma
 
 No prior experience is required. By the end, you'll be able to write headings, lists, code samples, tables, links, blockquotes, and more &ndash; the core building blocks of almost any set of course notes.
 
+## Course Info
+
+- **Instructor:** Sam Rivera
+- **Term:** Fall 2026
+- **Format:** Self-paced, online
+
+## Course Schedule
+
+| Week | Topic |
+| ---- | ----- |
+| 1 | Why Markdown, Formatting Basics |
+| 2 | Lists, Code and Tables |
+| 3 | Links and Images |
+| 4 | Blockquotes, Extras, Footnotes |
+| 5 | LaTeX and Mermaid |
+| 6 | Review |
+
 ## Course Pages
 
 1. [Why Markdown](01-why-markdown.md) &ndash; what Markdown is and why it's worth learning
