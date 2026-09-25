@@ -6,7 +6,7 @@ No prior experience is required. By the end, you'll be able to write headings, l
 
 ## Course Info
 
-- **Instructor:** Sam Rivera
+- **Instructor:** Jamie Rivera
 - **Term:** Fall 2026
 - **Format:** Self-paced, online
 
