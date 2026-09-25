@@ -23,4 +23,4 @@ No prior experience is required. By the end, you'll be able to write headings, l
 
 ---
 
-> Course content adapted from Paul Hibbitts' [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit), used here as an example course for demonstrating [Docsify-This](https://docsify-this.net).
+> Course content partly adapted from Paul Hibbitts' [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit), with additional original material, used here as an example course for demonstrating [Docsify-This](https://docsify-this.net).
