@@ -26,7 +26,7 @@ This works, but fenced code blocks (below) are usually easier to read and write,
 
 Use triple backticks to fence a whole block of code, optionally naming a language right after the first fence for syntax highlighting:
 
-````markdown
+<pre>
 ```java
 public class Course {
   public static void main(String[] args) {
@@ -34,7 +34,7 @@ public class Course {
   }
 }
 ```
-````
+</pre>
 
 Renders to:
 
