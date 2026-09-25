@@ -1,6 +1,6 @@
 # Formatting Basics
 
-Let's go over the main elements of Markdown and what the resulting HTML looks like, starting with headings and emphasis.
+Let's go over the main elements of Markdown, starting with headings and emphasis.
 
 ## Headings
 
