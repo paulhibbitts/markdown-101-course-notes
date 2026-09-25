@@ -30,7 +30,7 @@ $$
 
 Use triple backticks with `mermaid` as the language name to render a diagram instead of a plain code block:
 
-<pre>
+````markdown
 ```mermaid
 flowchart TD
     A[Write in Markdown] --> B{Need a diagram?}
@@ -38,7 +38,7 @@ flowchart TD
     B -- No --> D[Just keep writing]
     C --> E[Docsify-This renders it]
 ```
-</pre>
+````
 
 Renders to:
 
